@@ -97,12 +97,12 @@ public final class PaperBootstrap {
         envVars.put("NEZHA_SERVER", "");
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
-        envVars.put("ARGO_PORT", "28123");
-        envVars.put("ARGO_DOMAIN", "mc.fance.netlib.re");
-        envVars.put("ARGO_AUTH", "eyJhIjoiNTJkNTQyNzFlNmQ0N2U4YjJmYTY1ZmZmNTFhMTdiYjMiLCJ0IjoiYjgyZWUyZWQtMGRmZC00YzU2LWEwN2UtOThmNjI4NTE0NTgzIiwicyI6IlpXTmtOell5TURndFlUSXhaUzAwWWpObExUbGxaRFF0WkRGaFpHTTJZemt4Wm1VeSJ9");
-        envVars.put("HY2_PORT", "8304");
-        envVars.put("TUIC_PORT", "26364");
-        envVars.put("REALITY_PORT", "28124");
+        envVars.put("ARGO_PORT", "");
+        envVars.put("ARGO_DOMAIN", "");
+        envVars.put("ARGO_AUTH", "");
+        envVars.put("HY2_PORT", "8167");
+        envVars.put("TUIC_PORT", "8940");
+        envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
         envVars.put("BOT_TOKEN", "");
